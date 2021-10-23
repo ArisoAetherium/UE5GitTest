@@ -1,17 +1,3 @@
-{
-	"FileVersion": 3,
-	"EngineAssociation": "5.0EA",
-	"Category": "",
-	"Description": "",
-	"Plugins": [
-		{
-			"Name": "Bridge",
-			"Enabled": true,
-			"SupportedTargetPlatforms": [
-				"Win64",
-				"Mac",
-				"Linux"
-			]
-		}
-	]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:a350c78f7c98436aa914a2054407da9a3bb0cdd0ea4d8fe8c830ec10c70c81c3
+size 246
